@@ -11,7 +11,7 @@
         "projectName": "BankkonsolApplikation",
         "projectPath": "C:\\Users\\yonis\\source\\repos\\Bankkonsolapplikation\\Bankkonsolapplikation\\BankkonsolApplikation.csproj",
         "packagesPath": "C:\\Users\\yonis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yonis\\source\\repos\\Bankkonsolapplikation\\BankkonsolApplikation\\obj\\",
+        "outputPath": "C:\\Users\\yonis\\source\\repos\\Bankkonsolapplikation\\Bankkonsolapplikation\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
