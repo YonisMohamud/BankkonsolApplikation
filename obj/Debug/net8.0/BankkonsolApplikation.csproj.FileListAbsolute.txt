@@ -1,0 +1,14 @@
+C:\Users\yonis\source\repos\Bankkonsolapplikation\BankkonsolApplikation\bin\Debug\net8.0\BankkonsolApplikation.exe
+C:\Users\yonis\source\repos\Bankkonsolapplikation\BankkonsolApplikation\bin\Debug\net8.0\BankkonsolApplikation.deps.json
+C:\Users\yonis\source\repos\Bankkonsolapplikation\BankkonsolApplikation\bin\Debug\net8.0\BankkonsolApplikation.runtimeconfig.json
+C:\Users\yonis\source\repos\Bankkonsolapplikation\BankkonsolApplikation\bin\Debug\net8.0\BankkonsolApplikation.dll
+C:\Users\yonis\source\repos\Bankkonsolapplikation\BankkonsolApplikation\bin\Debug\net8.0\BankkonsolApplikation.pdb
+C:\Users\yonis\source\repos\Bankkonsolapplikation\BankkonsolApplikation\obj\Debug\net8.0\BankkonsolApplikation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yonis\source\repos\Bankkonsolapplikation\BankkonsolApplikation\obj\Debug\net8.0\BankkonsolApplikation.AssemblyInfoInputs.cache
+C:\Users\yonis\source\repos\Bankkonsolapplikation\BankkonsolApplikation\obj\Debug\net8.0\BankkonsolApplikation.AssemblyInfo.cs
+C:\Users\yonis\source\repos\Bankkonsolapplikation\BankkonsolApplikation\obj\Debug\net8.0\BankkonsolApplikation.csproj.CoreCompileInputs.cache
+C:\Users\yonis\source\repos\Bankkonsolapplikation\BankkonsolApplikation\obj\Debug\net8.0\BankkonsolApplikation.dll
+C:\Users\yonis\source\repos\Bankkonsolapplikation\BankkonsolApplikation\obj\Debug\net8.0\refint\BankkonsolApplikation.dll
+C:\Users\yonis\source\repos\Bankkonsolapplikation\BankkonsolApplikation\obj\Debug\net8.0\BankkonsolApplikation.pdb
+C:\Users\yonis\source\repos\Bankkonsolapplikation\BankkonsolApplikation\obj\Debug\net8.0\BankkonsolApplikation.genruntimeconfig.cache
+C:\Users\yonis\source\repos\Bankkonsolapplikation\BankkonsolApplikation\obj\Debug\net8.0\ref\BankkonsolApplikation.dll
